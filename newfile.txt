@@ -1,5 +1,0 @@
-REXX Mainframe Programming
-
-$ SAY is a terminal
-
-
